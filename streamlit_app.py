@@ -1,5 +1,5 @@
 import streamlit
-streamlit.title('This is Snow Resturant')
+streamlit.title('This is Mina Gupta Resturant')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
